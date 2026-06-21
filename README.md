@@ -1,8 +1,8 @@
-# Hi, I'm Rajpal Gelot
+# Rajpal Gelot
 
 IT Student at Cleveland State University
 
-## Technical Skills
+## Skills
 
 - Python
 - Java
@@ -14,18 +14,12 @@ IT Student at Cleveland State University
 
 ## Projects
 
-### Weather Dashboard
-Real-time weather application using APIs.
-
-### Student Management System
-Database-driven student record management.
-
-### Linux Basics
-Linux commands and administration notes.
+- Weather Dashboard
+- Student Management System
+- Linux Basics
 
 ## Career Interests
 
 - IT Support
-- System Administration
 - Cloud Computing
 - Software Development
