@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rajpal Gelot
 
-<!--
-**rajpalgelot-tech/rajpalgelot-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Student at Cleveland State University
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Linux
+
+## Projects
+
+### Weather Dashboard
+Real-time weather application using APIs.
+
+### Student Management System
+Database-driven student record management.
+
+### Linux Basics
+Linux commands and administration notes.
+
+## Career Interests
+
+- IT Support
+- System Administration
+- Cloud Computing
+- Software Development
